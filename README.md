@@ -1,11 +1,11 @@
 <h1>Nebula Defender</h1>
 
 Gemaakt door:
--Gijs Schouten
--Jarno Limmen
--Dave van staden
--Sophie Meester
--Denny van Druten
+- Gijs Schouten
+- Jarno Limmen
+- Dave van staden
+- Sophie Meester
+- Denny van Druten
 
 Game Name: Nebula Defender
 
